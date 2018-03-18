@@ -54,3 +54,5 @@ Thumbs.db
 # npm files #
 #############
 /node_modules/*
+
+tempfile2.txt
